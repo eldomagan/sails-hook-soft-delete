@@ -6,8 +6,19 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/eldomagan/sails-hook-soft-delete.git"
+  },
+  "keywords": [
+    "sails",
+    "sails.js",
+    "waterline",
+    "orm",
+    "hook",
+    "soft-delete"
+  ],
+  "author": "Eldo Magan <magan.eldo@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "eslint": "^5.16.0",
